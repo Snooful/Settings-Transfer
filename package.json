@@ -1,0 +1,6 @@
+{
+	"name": "@snooful/settings-transfer",
+	"version": "1.0.0",
+	"description": "A tool to transfer settings between two settings managers.",
+	"license": "MIT"
+}
