@@ -2,5 +2,21 @@
 	"name": "@snooful/settings-transfer",
 	"version": "1.0.0",
 	"description": "A tool to transfer settings between two settings managers.",
-	"license": "MIT"
+	"license": "MIT",
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Snooful/Settings-Transfer.git"
+	},
+	"keywords": [
+		"utility"
+	],
+	"author": "haykam821",
+	"bugs": {
+		"url": "https://github.com/Snooful/Settings-Transfer/issues"
+	},
+	"homepage": "https://github.com/Snooful/Settings-Transfer#readme"
 }
